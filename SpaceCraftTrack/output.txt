@@ -1,0 +1,13 @@
+Ёталонное положение на 2025-01-09 07:00:00.000000 UTC:
+X: -4259.86 km
+Y: 2509.26 km
+Z: -4753.69 km
+Latitude: -44.0545 degrees
+Longitude: -64.5723 degrees
+»змеренное положение :
+X: -4321.98 km
+Y: 2397.99 km
+Z: -4754.68 km
+Latitude: -43.2827 degrees
+Longitude: -63.8206 degrees
+Spacecraft identified: No
